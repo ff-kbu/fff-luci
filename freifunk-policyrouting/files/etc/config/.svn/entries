@@ -1,8 +1,8 @@
 10
 
 dir
-9299
-http://svn.luci.subsignal.org/luci/trunk/contrib/package/freifunk-policyrouting/files/etc/config
+9868
+http://svn.luci.subsignal.org/luci/tags/0.11.1/contrib/package/freifunk-policyrouting/files/etc/config
 http://svn.luci.subsignal.org
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2012-12-21T23:31:03.000000Z
+2013-07-11T20:51:44.000000Z
 a0b8ab31ac55cdeaf07682451e92c1c4
 2012-07-01T00:01:38.500238Z
 8846

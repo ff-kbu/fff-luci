@@ -1,8 +1,8 @@
 10
 
 dir
-9299
-http://svn.luci.subsignal.org/luci/trunk/contrib/package/freifunk-common
+9868
+http://svn.luci.subsignal.org/luci/tags/0.11.1/contrib/package/freifunk-common
 http://svn.luci.subsignal.org
 
 
@@ -38,7 +38,7 @@ file
 
 
 
-2012-12-21T23:31:03.000000Z
+2013-07-11T20:51:44.000000Z
 2a6dd066109f68b62a2d4020fe3528b5
 2011-10-23T14:20:51.856269Z
 7771

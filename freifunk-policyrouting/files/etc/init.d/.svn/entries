@@ -1,14 +1,14 @@
 10
 
 dir
-9299
-http://svn.luci.subsignal.org/luci/trunk/contrib/package/freifunk-policyrouting/files/etc/init.d
+9868
+http://svn.luci.subsignal.org/luci/tags/0.11.1/contrib/package/freifunk-policyrouting/files/etc/init.d
 http://svn.luci.subsignal.org
 
 
 
-2012-02-24T21:08:18.692682Z
-8322
+2013-01-27T00:21:19.224867Z
+9653
 soma
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2012-12-21T23:31:03.000000Z
-f2ed77a1f3fd14529ce8e0d501db6072
-2012-02-24T21:08:18.692682Z
-8322
+2013-07-11T20:51:44.000000Z
+e84fd5334633b60c291fe183e34eb0bf
+2013-01-27T00:21:19.224867Z
+9653
 soma
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-247
+297
 

@@ -1,8 +1,8 @@
 10
 
 dir
-9299
-http://svn.luci.subsignal.org/luci/trunk/contrib/package/freifunk-common/files/etc/uci-defaults
+9868
+http://svn.luci.subsignal.org/luci/tags/0.11.1/contrib/package/freifunk-common/files/etc/uci-defaults
 http://svn.luci.subsignal.org
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2012-12-21T23:31:03.000000Z
+2013-07-11T20:51:44.000000Z
 b32f563e4be8238a58e3fcb17ea8a00b
 2011-09-30T08:44:22.909225Z
 7579

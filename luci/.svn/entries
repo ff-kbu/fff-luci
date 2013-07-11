@@ -1,14 +1,14 @@
 10
 
 dir
-9299
-http://svn.luci.subsignal.org/luci/trunk/contrib/package/luci
+9868
+http://svn.luci.subsignal.org/luci/tags/0.11.1/contrib/package/luci
 http://svn.luci.subsignal.org
 
 
 
-2012-09-14T12:08:58.341910Z
-9274
+2013-01-28T16:02:57.542212Z
+9656
 jow
 
 
@@ -35,10 +35,10 @@ file
 
 
 
-2012-12-21T23:31:13.000000Z
-42481d70ffbe043cc578821e8f476929
-2012-09-14T12:08:58.341910Z
-9274
+2013-07-11T20:51:44.000000Z
+e6b347bd8657fcb2377aeaa65fe91a09
+2013-01-28T16:02:57.542212Z
+9656
 jow
 
 
@@ -61,5 +61,5 @@ jow
 
 
 
-20148
+20426
 

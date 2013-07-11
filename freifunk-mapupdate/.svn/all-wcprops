@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/!svn/ver/7771/luci/trunk/contrib/package/freifunk-mapupdate
+V 66
+/!svn/ver/9656/luci/tags/0.11.1/contrib/package/freifunk-mapupdate
 END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/!svn/ver/7771/luci/trunk/contrib/package/freifunk-mapupdate/Makefile
+V 75
+/!svn/ver/9656/luci/tags/0.11.1/contrib/package/freifunk-mapupdate/Makefile
 END

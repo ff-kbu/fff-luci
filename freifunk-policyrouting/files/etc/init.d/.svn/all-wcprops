@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/!svn/ver/8322/luci/trunk/contrib/package/freifunk-policyrouting/files/etc/init.d
+V 87
+/!svn/ver/9656/luci/tags/0.11.1/contrib/package/freifunk-policyrouting/files/etc/init.d
 END
 freifunk-policyrouting
 K 25
 svn:wc:ra_dav:version-url
-V 104
-/!svn/ver/8322/luci/trunk/contrib/package/freifunk-policyrouting/files/etc/init.d/freifunk-policyrouting
+V 110
+/!svn/ver/9656/luci/tags/0.11.1/contrib/package/freifunk-policyrouting/files/etc/init.d/freifunk-policyrouting
 END

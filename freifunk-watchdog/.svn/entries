@@ -1,14 +1,14 @@
 10
 
 dir
-9299
-http://svn.luci.subsignal.org/luci/trunk/contrib/package/freifunk-watchdog
+9868
+http://svn.luci.subsignal.org/luci/tags/0.11.1/contrib/package/freifunk-watchdog
 http://svn.luci.subsignal.org
 
 
 
-2012-07-15T17:25:24.100393Z
-8885
+2013-01-27T18:43:41.246746Z
+9655
 jow
 has-props
 
@@ -38,7 +38,7 @@ file
 
 
 
-2012-12-21T23:31:03.000000Z
+2013-07-11T20:51:44.000000Z
 8df204b03e45e955b6ff3037557a1020
 2012-07-15T17:25:24.100393Z
 8885

@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/!svn/ver/8775/luci/trunk/contrib/package/freifunk-common/files/etc/init.d
+V 80
+/!svn/ver/9656/luci/tags/0.11.1/contrib/package/freifunk-common/files/etc/init.d
 END
 freifunk
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/!svn/ver/8775/luci/trunk/contrib/package/freifunk-common/files/etc/init.d/freifunk
+V 89
+/!svn/ver/9656/luci/tags/0.11.1/contrib/package/freifunk-common/files/etc/init.d/freifunk
 END

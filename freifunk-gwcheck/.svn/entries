@@ -1,16 +1,16 @@
 10
 
 dir
-9299
-http://svn.luci.subsignal.org/luci/trunk/contrib/package/freifunk-gwcheck
+9868
+http://svn.luci.subsignal.org/luci/tags/0.11.1/contrib/package/freifunk-gwcheck
 http://svn.luci.subsignal.org
 
 
 
-2011-11-13T13:48:48.946840Z
-7929
-soma
-
+2013-01-27T18:43:41.246746Z
+9655
+jow
+has-props
 
 
 
@@ -41,10 +41,10 @@ file
 
 
 
-2012-12-21T23:31:03.000000Z
-b1c986835dc02c01ef2666cb22c6abc1
-2011-11-13T13:48:48.946840Z
-7929
+2013-07-11T20:51:44.000000Z
+23a99f4efa04f18413e94b681bcdd7b9
+2013-01-21T09:48:28.442552Z
+9627
 soma
 
 
